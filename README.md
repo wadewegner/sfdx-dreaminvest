@@ -1,6 +1,6 @@
 # sfdx-dreaminvest
 
-This is an SFDX-ified version of Christophe Coenraets **Mutual Fund Explorer** Lightning App. You can find details on his on the post [Mutual Fund Explorer: A New Lightning Components Sample Application](https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html)
+This is an SFDX-ified version of Christophe Coenraets **Mutual Fund Explorer** Lightning App. You can find details on his on the post [Mutual Fund Explorer: A New Lightning Components Sample Application](https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html).
 
 I converted this app to SFDX by doing the following:
 
@@ -12,7 +12,7 @@ I converted this app to SFDX by doing the following:
 
 4. Invoked a metadata retrieve on the package: `sfdx force:mdapi:retrieve -s -r ./mdapipackage -p DreamInvest`
 
-5. Retrieved the package: `sfdx force:mdapi:retrieve --jobid 09S3D00000001q8UAA --retrievetargetdir ./mdapipackage`
+5. Retrieved the package: `sfdx force:mdapi:retrieve --jobid [JOBID] --retrievetargetdir ./mdapipackage`
 
 6. Unzipped the paackage: `unzip mdapipackage/unpackaged.zip -d mdapipackage/`
 
