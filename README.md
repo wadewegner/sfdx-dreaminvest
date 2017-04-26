@@ -28,4 +28,6 @@ Now I can push and run:
 
 2. Push the source into my org: `sfdx force:source:push`
 
-3. Open the org and run app: `sfdx force:org:open`
+3. Assign the user to the permset: `sfdx force:user:permset:assign -n DreamInvest`
+
+4. Open the org and run app: `sfdx force:org:open`
