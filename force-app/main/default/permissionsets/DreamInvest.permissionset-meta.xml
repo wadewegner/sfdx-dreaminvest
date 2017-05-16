@@ -20,10 +20,10 @@
         <application>standard__Content</application>
         <visible>false</visible>
     </applicationVisibilities>
-    <applicationVisibilities>
+    <!--<applicationVisibilities>
         <application>standard__Insights</application>
         <visible>false</visible>
-    </applicationVisibilities>
+    </applicationVisibilities>-->
     <applicationVisibilities>
         <application>standard__LightningSales</application>
         <visible>false</visible>
@@ -52,10 +52,10 @@
         <application>standard__Sites</application>
         <visible>false</visible>
     </applicationVisibilities>
-    <applicationVisibilities>
+    <!--<applicationVisibilities>
         <application>standard__Work</application>
         <visible>false</visible>
-    </applicationVisibilities>
+    </applicationVisibilities>-->
     <classAccesses>
         <apexClass>FundController</apexClass>
         <enabled>true</enabled>
