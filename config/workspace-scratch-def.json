@@ -1,7 +1,7 @@
 {
-  "Company": "example Company",
+  "Company": "me",
   "Country": "US",
-  "LastName": "Example",
+  "LastName": "yourname",
   "Email": "your@email.com",
   "Edition": "Developer",
   "OrgPreferences" : {
