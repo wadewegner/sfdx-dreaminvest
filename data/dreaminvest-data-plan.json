@@ -4,7 +4,7 @@
         "saveRefs": true,
         "resolveRefs": false,
         "files": [
-            "export-demo-Sector__cs.json"
+            "dreaminvest-data-sector.json"
         ]
     },
     {
@@ -12,7 +12,7 @@
         "saveRefs": false,
         "resolveRefs": true,
         "files": [
-            "export-demo-Fund__cs.json"
+            "dreaminvest-data-fund.json"
         ]
     }
 ]
