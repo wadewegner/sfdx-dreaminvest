@@ -1,0 +1,291 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef1"
+            },
+            "Name": "Agriculture"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef2"
+            },
+            "Name": "Alternative Investments"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef3"
+            },
+            "Name": "Asia"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef4"
+            },
+            "Name": "Biotech"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef5"
+            },
+            "Name": "Bonds"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef6"
+            },
+            "Name": "Commodities"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef7"
+            },
+            "Name": "Consumer Discretionary"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef8"
+            },
+            "Name": "Consumer Non-Cyclical"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef9"
+            },
+            "Name": "Consumer Services"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef10"
+            },
+            "Name": "Consumer Staples"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef11"
+            },
+            "Name": "Currency"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef12"
+            },
+            "Name": "Defense"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef13"
+            },
+            "Name": "Emerging Markets"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef14"
+            },
+            "Name": "Energy"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef15"
+            },
+            "Name": "Environmental"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef16"
+            },
+            "Name": "Europe"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef17"
+            },
+            "Name": "Financial Services"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef18"
+            },
+            "Name": "Grains"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef19"
+            },
+            "Name": "Healthcare"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef20"
+            },
+            "Name": "Income"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef21"
+            },
+            "Name": "Industrial"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef22"
+            },
+            "Name": "International"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef23"
+            },
+            "Name": "Large Cap"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef24"
+            },
+            "Name": "Managed ETFs"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef25"
+            },
+            "Name": "Materials"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef26"
+            },
+            "Name": "Meats"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef27"
+            },
+            "Name": "Metals"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef28"
+            },
+            "Name": "Mid Cap"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef29"
+            },
+            "Name": "Mixed Asset"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef30"
+            },
+            "Name": "Multi Cap"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef31"
+            },
+            "Name": "Natural Resources"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef32"
+            },
+            "Name": "Non Taxable"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef33"
+            },
+            "Name": "Power"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef34"
+            },
+            "Name": "Precious Metal"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef35"
+            },
+            "Name": "Real Estate"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef36"
+            },
+            "Name": "Small Cap"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef37"
+            },
+            "Name": "Taxable Bonds"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef38"
+            },
+            "Name": "Technology"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef39"
+            },
+            "Name": "Telecommunications"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef40"
+            },
+            "Name": "Transportation"
+        },
+        {
+            "attributes": {
+                "type": "Sector__c",
+                "referenceId": "Sector__cRef41"
+            },
+            "Name": "Utilities"
+        }
+    ]
+}
